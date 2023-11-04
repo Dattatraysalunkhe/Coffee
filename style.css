@@ -167,7 +167,7 @@ marquee :hover{
     background-position: center;
 }
 #card1{
-   background-image: url(images/burgur.jpg);
+   background-image: url("images/burgur.jpg");
 }
 #card2{
     background-image: url(images/pasta.jpg);
